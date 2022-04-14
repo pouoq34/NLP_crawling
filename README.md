@@ -1,6 +1,8 @@
-# NLP_crawling
-Goal: Crawling news article and extract keywords
 
-Crawling news article using BeautifulSoup
+### Goal
+#### Crawling news article and extract keywords
 
-extract noun of news contents using Okt library 
+#### Process
+1) ling news article using BeautifulSoup
+
+2) extract noun of news contents using Okt library 
